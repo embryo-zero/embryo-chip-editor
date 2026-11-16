@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Chip Editor
+
+**Embryo Chip Editor** is Embryo-Zero's fork of [Magic VLSI](https://github.com/RTimothyEdwards/magic), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 ![Continuous Integration](https://github.com/RTimothyEdwards/magic/actions/workflows/main.yml/badge.svg)
 
 # MAGIC
